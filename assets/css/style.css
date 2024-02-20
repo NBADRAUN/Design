@@ -1,0 +1,21 @@
+.herotext {
+   color: black;  
+   position: absolute;
+    left: 10%;
+    top: 20%;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.herosubtext {
+    color: red;  
+    position: absolute;
+     left: 13%;
+     top: 26%;
+     font-size: 20px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ .test {
+    background-color: tan;
+    height: 30px;
+    
+ }
